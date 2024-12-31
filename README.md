@@ -39,4 +39,6 @@ The dataset used consists of bird call audio recordings sourced from publicly av
 ## Results
 - Achieved an accuracy of **84%** on the test dataset.
 - Visualized spectrograms and model predictions for validation.
+  
+
 
